@@ -11,8 +11,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "cffk_db",
-      "migrations_dir": "database/migrations",
+      "database_name": "cffk_db1",
+      "migrations_dir": "database/migrations","database_id": "5fdf6fbf-7adb-4540-91e5-833a47016ed9",
       // "database_id": "6ccaa772-9379-494a-8548-7a1bb74e30da" // 一键部署必须注释/
     }
   ],
